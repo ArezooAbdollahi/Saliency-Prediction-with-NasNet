@@ -1,3 +1,4 @@
+#### The evaluation metric code in this repository is came from this website mainly: https://github.com/imatge-upc/saliency-2019-SalBCE
 from functools import partial
 from IPython import embed
 import numpy as np
